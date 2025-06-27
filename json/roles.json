@@ -1,0 +1,89 @@
+{
+    "roles": [
+        {
+            "name": "@everyone",
+            "id": 1349486076812591145
+        },
+        {
+            "name": "PatchBot",
+            "id": 1379563174990446654
+        },
+        {
+            "name": "Bongo",
+            "id": 1376502578732601378
+        },
+        {
+            "name": "Sky",
+            "id": 1372327237256482916
+        },
+        {
+            "name": "💞 Petit-ami Multiversel d’Amanda",
+            "id": 1369817337976590397
+        },
+        {
+            "name": "🌀 Voyageur romantique du Multivers",
+            "id": 1369803994733482065
+        },
+        {
+            "name": "🎧 Confi-dent de la Timeline",
+            "id": 1369803963465072730
+        },
+        {
+            "name": "💌 Porteur de lettres d’Amanda",
+            "id": 1369803932309913600
+        },
+        {
+            "name": "💌 Porteur de lettres d’Amanda",
+            "id": 1369803888995336234
+        },
+        {
+            "name": "🍊 Séducteur d’Amanda",
+            "id": 1369803789783138415
+        },
+        {
+            "name": "DraftBot",
+            "id": 1369795346967826442
+        },
+        {
+            "name": "-------------- levels ----------",
+            "id": 1359535481544769568
+        },
+        {
+            "name": "Fans d'Amanda (on l'est tous)",
+            "id": 1358219696712716469
+        },
+        {
+            "name": "Esclave d'amanda (Bots)",
+            "id": 1369049821469737071
+        },
+        {
+            "name": "Safe person (VIP)",
+            "id": 1358219200006455478
+        },
+        {
+            "name": "AmandaBot",
+            "id": 1369370814025302038
+        },
+        {
+            "name": "Amanda (Admin)",
+            "id": 1358219493280583740
+        }
+    ],
+    "commands": [
+        "nico",
+        "regles",
+        "clear",
+        "pfc",
+        "quiz",
+        "mes_stats",
+        "stats_de",
+        "top_stats",
+        "reset_score",
+        "reset_all_scores",
+        "roles",
+        "pendu",
+        "essayer",
+        "proposer",
+        "stop"
+    ]
+}
